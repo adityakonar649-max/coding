@@ -12,7 +12,9 @@ public class pattern
                 System.out.print("* ");
             }
             System.out.println();
+            
         }
+        sc.close();
     }
     
 }

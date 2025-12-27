@@ -19,5 +19,6 @@ public class prime
             System.out.println("Prime number");
         else
             System.out.println("Not a prime number");
+        scr.close();
     }
 }
