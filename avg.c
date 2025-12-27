@@ -10,5 +10,4 @@ int main()
     int x=s/3;
     printf("The average of the 3 numbers is : %d",x);
     return 0;
-
 }
