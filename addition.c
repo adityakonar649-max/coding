@@ -7,5 +7,4 @@ int main()
     scanf("%d",&b);
     printf("%d",a+b);
     return 0;
-    
 }

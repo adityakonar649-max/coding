@@ -1,0 +1,1 @@
+a=input('Enter the no of rows')
